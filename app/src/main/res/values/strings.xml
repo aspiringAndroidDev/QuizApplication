@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="_1_which_type_of_cyber_attack_is_commonly_performed_through_emails">Which type of cyber attack is commonly performed through emails?</string>
+    <string name="cyber_security_quiz_app">Cyber Security Quiz App</string>
+    <string name="trojan">Trojan</string>
+    <string name="phishing">Phishing</string>
+    <string name="ransomware">Ransomware</string>
+    <string name="_2_for_maximum_security_passwords_should_be_made_up_of">For maximum security, passwords should be made up of?</string>
+    <string name="lower_case_letters_only">Lower case letters only</string>
+    <string name="memorable_names_and_dates">Memorable names and dates</string>
+    <string name="a_sequence_of_numbers_or_letters">A sequence of numbers or letters</string>
+    <string name="upper_and_lower_case_letters_numbers_and_symbols">Upper and lower case letters, numbers and symbols</string>
+    <string name="_3_which_three_are_common_forms_of_cyber_attacks">Which three are common forms of cyber attacks?</string>
+    <string name="baiting">Baiting</string>
+    <string name="fishing">Fishing</string>
+    <string name="network_travelling_worms">Network-Travelling Worms</string>
+    <string name="_4_what_is_the_process_of_encoding_information_in_a_way_so_that_only_someone_with_a_key_can_decode_it">What is the process of encoding information in a way so that only someone with a key can decode it?</string>
+    <string name="compression">Compression</string>
+    <string name="systematic_variation">Systematic Variation</string>
+    <string name="encryption">Encryption</string>
+    <string name="type_answer_here">Type answer here</string>
+    <string name="submit">Submit</string>
+    <string name="_5_to_protect_a_computer_from_virus_you_should_install_in_your_computer">To protect a computer from virus you should install......in your computer?</string>
+</resources>
